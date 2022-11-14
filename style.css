@@ -13,3 +13,40 @@
 	
  
  }
+/*  secation A css start */
+ .A{
+    margin-top: 100px;
+ }
+ .secA{
+   margin-left: 650px;
+ }
+ .secB{
+    margin-left: 550px;
+    margin-top: 10px;
+
+ }
+ .secC{
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 20px;
+ }
+ @media only screen and (max-width: 600px) {
+    .A{
+        margin-top: 50px;
+     }
+     .secA{
+       margin-left: 230px;
+     }
+     .secB{
+        margin-left: 110px;
+        margin-top: 10px;
+    
+     }
+     .secC{
+        margin-left: 120px;
+        margin-right: 120px;
+        margin-top: 20px;
+     }
+   
+  }
+/*  secation A css end  */
